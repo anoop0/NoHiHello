@@ -17,6 +17,6 @@ A GitHub Pages site inspired by [nohello.net](https://nohello.net/en/) — encou
 3. Set source to **main** branch, root (`/`).
 4. Your site will be live at `https://<username>.github.io/NoHiHello/`.
 
-## Share
+## Share 
 
 Send the link to your team to promote better async communication!
